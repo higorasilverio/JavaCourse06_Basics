@@ -1,0 +1,1 @@
+Program that, given three values, calculates a few areas.

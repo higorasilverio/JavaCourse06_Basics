@@ -10,7 +10,6 @@ public class Main {
 		Locale.setDefault(Locale.US);
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("*** Program that, given three values, calculates a few areas ***");
 		System.out.print("Enter the first value: ");
 		double A = scanner.nextDouble();
 		System.out.print("Enter the second value: ");
